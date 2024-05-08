@@ -133,6 +133,12 @@ left: 131px;top: 99px;background: url(logo.jpg);
 
 
 ## OUTPUT:
+![Screenshot 2024-05-08 083309](https://github.com/Neethiventhan123/Figma/assets/148514848/2ae6059f-04b3-4dbf-8067-24e289c0e7a2)
+![Screenshot 2024-05-08 083838](https://github.com/Neethiventhan123/Figma/assets/148514848/2fa42aee-bc18-4f79-a102-42a7ff23eae8)
+![Screenshot 2024-05-08 083220](https://github.com/Neethiventhan123/Figma/assets/148514848/9695f412-b3dd-41e9-b3b9-c0727fe1d41a)
+
+
+
 
 
 
